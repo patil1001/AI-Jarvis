@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 import time
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "api_key"
 
 # Memory dictionary to store user information
 memory = {
